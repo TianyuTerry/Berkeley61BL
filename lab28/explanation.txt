@@ -1,0 +1,2 @@
+I was too excited when I finish project 3.
+I cannot focus on lab anymore after that. However, I decided to focus back on 61BL today. Since the exam is approaching, I feel that I need to prepare for the exam and finish this lab. (Even though I did not finish the lab, I have gone through all of the content in teh spec. I was simply too lazy to finis the code I guess. Apologise for all of the TAs and myself. I hope this explanation text file is long enough for me to test my code.
